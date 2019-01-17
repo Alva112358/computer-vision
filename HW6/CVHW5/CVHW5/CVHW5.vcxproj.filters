@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CImg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stitching.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stitching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Cholesky">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\CholmodSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Core">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Dense">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Eigenvalues">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Geometry">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Householder">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\IterativeLinearSolvers">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Jacobi">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\LU">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\MetisSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\OrderingMethods">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\PardisoSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\PaStiXSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\QR">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\QtAlignedMalloc">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Sparse">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SparseCholesky">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SparseCore">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SparseLU">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SparseQR">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SPQRSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\StdDeque">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\StdList">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\StdVector">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SuperLUSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\SVD">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\UmfPackSupport">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\Eigen">
+      <Filter>头文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\大三上\2016级\计算机视觉\HW6\Eigen\CMakeLists.txt">
+      <Filter>头文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(84): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(85): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(91): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(92): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(105): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(117): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\wraping.h(124): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+d:\大三上\2016级\计算机视觉\hw7\cvhw7\cvhw7\main.cpp(21): warning C4305: “参数”: 从“double”到“float”截断
+  CVHW7.vcxproj -> D:\大三上\2016级\计算机视觉\HW7\CVHW7\Debug\CVHW7.exe

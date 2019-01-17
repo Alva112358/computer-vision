@@ -1,0 +1,31 @@
+﻿  numProcess.cpp
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(174): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(176): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(318): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(399): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(416): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(421): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(426): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(436): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(440): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(457): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(461): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(468): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(469): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(484): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\alva\desktop\finalproject\finalproject\numprocess.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+  FinalProject.vcxproj -> C:\Users\Alva\Desktop\FinalProject\Debug\FinalProject.exe
